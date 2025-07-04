@@ -1,14 +1,23 @@
-/* cor de fundo */
+/* Fontes e fundo*/
 body {
-    background: lightgray
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 20px;
 }
 
-/* menu */
+/* Menu fixo */
 nav {
-    background: #ccc;
-    padding: 8px
+    background-color: #ddd;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+nav a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: #333;
 }
 
 h1 {
-    color: blue
+    color: navy;
 }
