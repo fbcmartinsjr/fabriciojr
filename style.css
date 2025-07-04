@@ -1,0 +1,14 @@
+/* cor de fundo */
+body {
+    background: lightgray
+}
+
+/* menu */
+nav {
+    background: #ccc;
+    padding: 8px
+}
+
+h1 {
+    color: blue
+}
