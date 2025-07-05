@@ -1,7 +1,7 @@
 /* Fontes e fundo*/
 body {
     font-family: Arial, sans-serif;
-    background-image: url("./imagens/fundo.png");
+    background-image: url("images/fundo.png");
     margin: 20px;
 }
 
