@@ -12,10 +12,17 @@ nav {
     margin-bottom: 20px;
 }
 
+/* Links do menu */
 nav a {
     margin-right: 10px;
     text-decoration: none;
     color: #333;
+}
+
+/*Efeito mouse*/
+nav a:hover {
+    color: rgb(64, 0, 255);
+    text-decoration: underline;
 }
 
 h1 {
