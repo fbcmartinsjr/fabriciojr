@@ -1,8 +1,7 @@
 /* Fontes e fundo*/
 body {
     font-family: Arial, sans-serif;
-    background-image: url("./imagens/fundogradiente.jpg");
-    background-repeat: repeat-x;
+    background-image: url("./imagens/fundo.png");
     margin: 20px;
 }
 
